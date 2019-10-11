@@ -1,0 +1,2 @@
+Just adds crew to all drives to simulate fuel costs.
+Hyperdrive costs 500 per jump, Scram 700 and Jump 1000.
